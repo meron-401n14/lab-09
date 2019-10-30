@@ -5,7 +5,7 @@
 ### Author: Meron 
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/meron-401n14/lab-09/pull/1)
 * [travis](http://xyz.com)
 * [Heruku](http://xyz.com) 
 
@@ -27,12 +27,12 @@ Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - 3000
+* `MONGODB_URI` - "mongodb+srv://meron123:meron123@cfcluster-kexaa.mongodb.net/app?retryWrites=true&w=majority"
 
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
+* Endpoint: `/model/models/:model/schema/`
   * Returns a JSON object with abc in it.
 * Endpoint: `/bing/zing/`
   * Returns a JSON object with xyz in it.

@@ -6,14 +6,14 @@
 
 ###### Links and Resources
 * [submission PR](https://github.com/meron-401n14/lab-09/pull/2)
-* [travis](http://xyz.com)
+* [travis](https://www.travis-ci.com/meron-401n14/lab-09)
 * [Heruku](https://lab-09.herokuapp.com/) 
 
 
 ##### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* swagger comments
+* jsdoc comments
+* TODO comments
 
 ###### Modules
 * categories, products & todo

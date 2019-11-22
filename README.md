@@ -7,7 +7,7 @@
 ###### Links and Resources
 * [submission PR](https://github.com/meron-401n14/lab-09/pull/2)
 * [travis](http://xyz.com)
-* [Heruku](http://xyz.com) 
+* [Heruku](https://lab-09.herokuapp.com/) 
 
 
 ##### Documentation

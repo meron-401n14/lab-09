@@ -16,32 +16,29 @@
 * [styleguide](http://xyz.com) (React assignments)
 
 ### Modules
+* categories, products & todo
 #### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
+* model-finder, 500, 404, router, server, 
 ### Setup
 #### `.env` requirements
-* `PORT` - 3000
-* `MONGODB_URI` - "mongodb+srv://meron123:meron123@cfcluster-kexaa.mongodb.net/app?retryWrites=true&w=majority"
+* `PORT` - 5000
+* `MONGODB_URI` - '"mongodb+srv://meron123:meron123@cfcluster-kexaa.mongodb.net/app?retryWrites=true&w=majority" '
 
 #### Running the app
-* `npm start`
-* Endpoint: `/model/models/:model/schema/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-  
+* `npm start` 
+
+* Endpoint: `/model/:id  /models`
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* npm test
 
 #### UML
-* ! [Routes](routes.jpg)
+* [Routes](routes.jpg)
+
+
+
+
+
+  
+
+  
 

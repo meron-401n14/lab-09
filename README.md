@@ -32,7 +32,7 @@
 * npm test
 
 #### UML
-* [Routes]!(routes.jpg)
+* [Routes](routes.jpg)
 
 
 

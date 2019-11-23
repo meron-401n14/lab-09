@@ -1,7 +1,7 @@
 {
   "name": "api-server-solution",
   "version": "1.0.0",
-  "description": "",
+  "description": "#### Api Server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -15,7 +15,7 @@
     "testEnvironment": "node"
   },
   "keywords": [],
-  "author": "",
+  "author": "Meron",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.0.0",
@@ -27,5 +27,17 @@
     "mongoose-schema-jsonschema": "^1.2.1",
     "require-directory": "^2.1.1",
     "supertest": "^4.0.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meron-401n14/lab-09.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meron-401n14/lab-09/issues"
+  },
+  "homepage": "https://github.com/meron-401n14/lab-09#readme"
 }
